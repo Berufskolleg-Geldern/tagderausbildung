@@ -10,6 +10,7 @@
             "name": "HG.T1",
             "blacklistedLayers": [],
             "wing": "right",
+            "exitFacing": "N/O",
             "roomAssignment": {
                 "left": [],
                 "right": []
@@ -20,6 +21,7 @@
             "name": "HG.T2",
             "blacklistedLayers": [],
             "wing": "center",
+            "exitFacing": "N/W",
             "roomAssignment": {
                 "left": [],
                 "right": []
@@ -30,6 +32,7 @@
             "name": "HG.T3",
             "blacklistedLayers": [],
             "wing": "center",
+            "exitFacing": "S/O",
             "roomAssignment": {
                 "left": [],
                 "right": [
@@ -42,6 +45,7 @@
             "name": "HG.T4",
             "blacklistedLayers": [],
             "wing": "center",
+            "exitFacing": "N/W",
             "roomAssignment": {
                 "left": [],
                 "right": [
@@ -55,6 +59,7 @@
             "name": "HG.T5",
             "blacklistedLayers": [],
             "wing": "left",
+            "exitFacing": "S/W",
             "roomAssignment": {
                 "left": [],
                 "right": [
@@ -70,6 +75,7 @@
             "number": "HG.2.05",
             "layer": "HG.2",
             "wing": "center",
+            "exitFacing": "N/W",
             "gps": {
                 "xStart": "51.51186003",
                 "xEnd": "51.51185033",
@@ -84,6 +90,7 @@
             "number": "/",
             "layer": "HG.E",
             "wing": "center",
+            "exitFacing": "N/W",
             "gps": {
                 "xStart": "51.51164687",
                 "xEnd": "51.51165402",
@@ -98,6 +105,7 @@
             "number": "HG.1.12",
             "layer": "HG.1",
             "wing": "left",
+            "exitFacing": "N/O",
             "gps": {
                 "xStart": "51.51171055",
                 "xEnd": "51.157173369",
@@ -112,6 +120,7 @@
             "number": "HG.2.04",
             "layer": "HG.2",
             "wing": "center",
+            "exitFacing": "N/W",
             "gps": {
                 "xStart": "51.51268846",
                 "xEnd": "51.511716",
